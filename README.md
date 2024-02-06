@@ -5,4 +5,4 @@ I have started learning functional programming with Ocaml and system programming
 I am concurently learning Ethical Hacking and Game Development using the Unity engine.
 In my free time, I love to listen to music and solve puzzles.
 
-<a href="https://www.linkedin.com/in/adityajha-iitd/">My Linkedin page</a>
+<a href="https://www.linkedin.com/in/adityajha-iitd/">Linkedin</a>
