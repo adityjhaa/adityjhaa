@@ -2,7 +2,7 @@
 <h4 align="center">CSE Undergrad, IIT Delhi</h4>
 
 - I am interested in **Machine Learning**, **Operating Systems** and **Compiler Design**. 
-- Currently exploring *Game Development with Unity*.
+- Currently exploring *Game Development with Unity*🎮.
 - 📫 Reach me at **adityajha.iitd@gmail.com**
 
 <p float="float" align="center">
