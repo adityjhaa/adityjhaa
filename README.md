@@ -1,8 +1,12 @@
-Hi, I’m Aditya Jha.
-I am currently a Computer Science & Engineering undergrad at IIT, Delhi.
-My interest areas are Machine Learning, Compiler Design, Operating Systems and Game Development.
-I have started learning functional programming with Ocaml and system programming with Rust.
-I am concurently learning Ethical Hacking and Game Development using the Unity engine.
-In my free time, I love to listen to music and solve puzzles.
+<h2 align="center">Hi👋, I’m Aditya Jha</h2>
+<h4 align="center">CSE Undergrad, IIT Delhi</h4>
 
-<a href="https://www.linkedin.com/in/adityajha-iitd/">Linkedin</a>
+- I am interested in **Machine Learning**, **Operating Systems** and **Compiler Design**. 
+- Currently exploring *Game Development with Unity*.
+- 📫 Reach me at **adityajha.iitd@gmail.com**
+
+<p float="float" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjha0&show_icons=true&locale=en&layout=compact" alt="" width="240"  height="320"/></p>
+
+<p align="right">
+<a href="https://www.linkedin.com/in/adityajha-iitd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />n</a></p>
