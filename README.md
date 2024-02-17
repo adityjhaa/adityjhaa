@@ -8,5 +8,5 @@
 <p float="float" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjha0&show_icons=true&locale=en&layout=compact" alt="" width="240"  height="320"/></p>
 
-<p align="right">
+<p align="center">
 <a href="https://www.linkedin.com/in/adityajha-iitd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a></p>
