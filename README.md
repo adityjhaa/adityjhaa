@@ -38,7 +38,7 @@
   <a href="https://www.linux.org/forums/linux-beginner-tutorials.123/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"  />
   </a>
-  <a href="https://vim-adventures.com/" target="_blank">
+  <a href="https://www.openvim.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="48"  />
   </a>
 </div>
