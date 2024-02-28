@@ -46,15 +46,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityjha0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjha0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityjha0&hide_title=true&show_icons=true&theme=radical&locale=en&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjha0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="160" />
 </div>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adityajha-iitd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50"/>
   </a>
 </div>
 
