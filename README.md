@@ -28,13 +28,6 @@
   <a href="https://ocaml.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="48"  />
   </a>
-  <a href="https://html.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48"  />
-  </a>
-  <a href="https://css3.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48"  />
-  </a>
-<br>
   <a href="https://www.linux.org/forums/linux-beginner-tutorials.123/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"  />
   </a>
