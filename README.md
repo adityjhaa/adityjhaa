@@ -25,14 +25,17 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" />
   </a>
-  <a href="https://ocaml.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" height="48" />
-  </a>
   <a href="https://pandas.pydata.org/docs/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" />
   </a>
   <a href="https://numpy.org/doc/stable/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" />
+  </a>
+  <a href="https://ocaml.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" height="48" />
+  </a>
+  <a href="https://go.dev/learn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="48" />
   </a>
 </div>
 
