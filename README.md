@@ -42,9 +42,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityjha0&hide_title=true&show_icons=true&theme=radical&locale=en&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjha0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=adityjha0&locale=en&mode=daily&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityjhaa&hide_title=true&show_icons=true&theme=radical&locale=en&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjhaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=adityjhaa&locale=en&mode=daily&theme=radical&hide_border=true" height="160" />
 </div>
 
 ###
