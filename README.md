@@ -6,7 +6,7 @@
 ###
 
 - 📚 Currently learning **Machine Learning**
-- 🎮 Making **Games**!
+- 🎮 Making **Games**
 - 📫 Reach me at **adityajha.iitd@gmail.com**
 
 ###
