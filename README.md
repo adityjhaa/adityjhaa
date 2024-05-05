@@ -5,8 +5,8 @@
 
 ###
 
-- 📚 Currently learning **Machine Learning**, **Programming Languages** and **Computer Architecture**
-- 🎮 Exploring **Game Development** with ***Unity***
+- 📚 Currently learning **Machine Learning**
+- 🎮 Making **Games**!
 - 📫 Reach me at **adityajha.iitd@gmail.com**
 
 ###
