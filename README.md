@@ -5,8 +5,8 @@
 
 ###
 
-- 📚 Currently learning **Compiler Design**
-- 🎮 Making **Games**
+- 📚 Currently learning about **Compilers** and **VMs**
+- 🎮 I enjoy creating **games**
 - 📫 Reach me at **adityajha.iitd@gmail.com**
 
 ###
