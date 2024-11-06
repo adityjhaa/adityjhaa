@@ -1,43 +1,27 @@
-<h1 align="center">Hi👋, I’m Aditya Jha</h1>
-<h3 align="center">CSE Undergrad, IIT Delhi</h3>
 
-<h2 align="left">About me</h2>
 
-###
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hi+There!+👋+I'm+Aditya+" />
+</h3>
 
-- 📚 Currently learning about **Compilers** and **VMs**
-- 🎮 I enjoy creating **Games**
-- 📫 Reach me at **adityajha.iitd@gmail.com**
 
-###
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
-<h2 align="left">Working with</h2>
 
-###
 
-<div align="center">
-  <a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="48" /></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="48" /></a>
-  <a href="https://go.dev/learn/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" /></a>
-  <a href="https://lua.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="48" /></a>
-</div>
+---
 
-###
+- 🔭 I'm an enthusiast who likes to play around with Computers and stuff
+- 📚 Im currently learning about Compilers and VMs
+- 🎮 I enjoy creating Games
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityjhaa&hide_title=true&show_icons=true&theme=gotham&locale=en&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjhaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=adityjhaa&locale=en&mode=daily&theme=gotham&hide_border=true" height="160" />
-</div>
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityjhaa&theme=tokyonight)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityjhaa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)<br>
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityjhaa&theme=tokyonight)
 
-###
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adityjhaa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/></a>
-<a href="https://twitter.com/adityjhaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"/></a>
-</p>
-
-###
-
-###
+<h3 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+</h3>
