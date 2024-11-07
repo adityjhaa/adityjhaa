@@ -12,7 +12,7 @@
 ---
 
 - 🔭 I'm an enthusiast who likes to play around with Computers and stuff
-- 📚 Im currently learning about Compilers and VMs
+- 📚 I'm currently learning about Compilers and VMs
 - 🎮 I enjoy creating Games
 ---
 
