@@ -17,7 +17,7 @@
 ---
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityjhaa&theme=tokyonight)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityjhaa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityjhaa&theme=tokyonight&hide_border=true&card_width=480)<br>
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityjhaa&theme=tokyonight)
 
 
